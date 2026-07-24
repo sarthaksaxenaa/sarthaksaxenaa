@@ -1,7 +1,7 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
 
   workflow_dispatch:
@@ -23,20 +23,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
-
-      - name: slow down snake animation
-        run: |
-          cd dist
-          # Double all millisecond durations to slow the snake by 2x
-          sed -i -E 's/([0-9]+)ms/\1\n/g' snake.svg
-          python3 -c "
-import re
-with open('snake.svg','r') as f: c=f.read()
-def d(m): return str(int(m.group(1))*2)+'ms'
-c=re.sub(r'(\d+)\n',d,c)
-with open('snake.svg','w') as f: f.write(c)
-print('Done: snake slowed down 2x')
-"
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
