@@ -1,5 +1,5 @@
 <br/>
-<img width="3712" height="1152" alt="header_banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:10B981&height=220&section=header&text=Sarthak%20Saxena&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50" />
+<img width="100%" alt="header_banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:10B981&height=220&section=header&text=Sarthak%20Saxena&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
@@ -34,14 +34,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthaksaxenaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=C9D1D9&ring_color=7C3AED" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksaxenaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=6B7280" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthaksaxenaa&theme=tokyonight" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksaxenaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthaksaxenaa&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthaksaxenaa&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarthaksaxenaa&theme=tokyonight&utcOffset=5.5" width="32%" />
 </div>
 
 ---
@@ -49,9 +51,13 @@
 ### 🚀 Featured Project
 
 <div align="center">
-  <a href="https://github.com/sarthaksaxenaa/RideShare-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthaksaxenaa&repo=RideShare-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=C9D1D9" />
-  </a>
+<a href="https://github.com/sarthaksaxenaa/RideShare-Platform">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sarthaksaxenaa&repo=RideShare-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sarthaksaxenaa&repo=RideShare-Platform&theme=default&hide_border=true" />
+  <img alt="RideShare-Platform" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sarthaksaxenaa&repo=RideShare-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=C9D1D9" />
+</picture>
+</a>
 </div>
 
 <div align="center">
@@ -64,6 +70,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthaksaxenaa&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=10B981&area_color=7C3AED" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthaksaxenaa&theme=tokyonight" width="100%" />
 </div>
 
 ---
