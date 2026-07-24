@@ -24,6 +24,37 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: slow down snake animation (2x slower)
+        run: |
+          cd dist
+          # Multiply all animation durations by 2 to slow the snake down
+          # Matches patterns like "0.5s", "1.2s", "300ms" in animation/transition CSS
+          python3 -c "
+          import re, sys
+
+          with open('snake.svg', 'r') as f:
+              svg = f.read()
+
+          # Slow down CSS animation durations (e.g., 'animation-duration:XXXms')
+          def multiply_ms(match):
+              val = float(match.group(1))
+              return match.group(0).replace(match.group(1), str(val * 2))
+
+          def multiply_s(match):
+              val = float(match.group(1))
+              return match.group(0).replace(match.group(1), str(round(val * 2, 4)))
+
+          # Handle millisecond durations
+          svg = re.sub(r'(\d+(?:\.\d+)?)ms', multiply_ms, svg)
+          # Handle second durations (careful not to match class names)
+          svg = re.sub(r'(?<=[\s:;,])(\d+(?:\.\d+)?)s(?=[;\s\"\\''\)])', multiply_s, svg)
+
+          with open('snake.svg', 'w') as f:
+              f.write(svg)
+
+          print('Snake animation slowed down by 2x')
+          "
+
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
