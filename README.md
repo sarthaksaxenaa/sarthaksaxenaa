@@ -35,41 +35,46 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksaxenaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=6B7280" width="49%" />
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/cards/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/cards/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/cards/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" />
 </div>
 
 ---
 
-### 🚀 Featured Project
+### 🔨 Current Working Project
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="700">
+  <a href="https://github.com/sarthaksaxenaa/RideShare-Platform">
+    <img src="https://raw.githubusercontent.com/sarthaksaxenaa/RideShare-Platform/main/docs/banner.jpg" alt="RideShare Platform" width="100%" />
+  </a>
+</div>
 
-<h3><a href="https://github.com/sarthaksaxenaa/RideShare-Platform">🚗 RideShare Platform</a></h3>
+<div align="center">
 
-<p>An <b>event-driven full-stack monorepo</b> orchestrating real-time rider-driver matching, live telemetry tracking via Socket.io, and a robust transactional payment pipeline with Stripe pre-authorization holds.</p>
+<a href="https://github.com/sarthaksaxenaa/RideShare-Platform">
+  <img src="https://img.shields.io/badge/🚗_RideShare_Platform-View_on_GitHub-7C3AED?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+<br/><br/>
+
+<p><b>An event-driven full-stack monorepo</b> orchestrating real-time rider-driver matching, live telemetry tracking via Socket.io, and a robust transactional payment pipeline with Stripe pre-authorization holds.</p>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -77,7 +82,7 @@
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/cards/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 </div>
 
 ---
