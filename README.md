@@ -34,17 +34,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksaxenaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=6B7280" width="49%" />
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksaxenaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=6B7280" width="60%" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" />
-</div>
+
 
 ---
 
@@ -82,7 +76,15 @@
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthaksaxenaa&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=10B981&area_color=7C3AED" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" />
 </div>
 
 ---
