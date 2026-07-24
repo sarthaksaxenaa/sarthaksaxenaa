@@ -1,127 +1,83 @@
+<br/>
+<img width="3712" height="1152" alt="header_banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:10B981&height=220&section=header&text=Sarthak%20Saxena&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50" />
+
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=&animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+event-driven+full-stack+platforms;%F0%9F%A7%A0+CSE-AIML+%7C+4th+Year+B.Tech;%F0%9F%92%AC+Let's+connect+and+build+something+amazing!)](https://git.io/typing-svg)
 
-```
- ███████╗ █████╗ ██████╗ ████████╗██╗  ██╗ █████╗ ██╗  ██╗
- ██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██║ ██╔╝
- ███████╗███████║██████╔╝   ██║   ███████║███████║█████╔╝ 
- ╚════██║██╔══██║██╔══██╗   ██║   ██╔══██║██╔══██║██╔═██╗ 
- ███████║██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║  ██╗
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-### `< Full-Stack Developer · AI/ML Undergrad · Problem Solver />`
-
-<a href="https://www.linkedin.com/in/sarthaksaxenaa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-%237C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+<a href="https://www.linkedin.com/in/sarthaksaxenaa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:sarthaksaxenaa05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-%237C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+<a href="mailto:sarthaksaxenaa05@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_to_Work-%2310B981?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+React+%26+Node;Learning+DSA+%E2%80%94+one+problem+at+a+time;CSE-AIML+%40+4th+Year+B.Tech;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=sarthaksaxenaa&style=for-the-badge&color=7C3AED&labelColor=0D1117&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## `$ whoami`
-
-```yaml
-name        : Sarthak Saxena
-degree      : B.Tech CSE (AI/ML) — 4th Year
-focus       : Full-Stack Development · DSA · Clean Backend Architecture
-stack       : React · Node.js · Express · Django · MongoDB · MySQL
-currently   : Sharpening DSA skills + building scalable REST APIs
-seeking     : Internship or Full-Time SWE / Full-Stack roles
-```
-
----
-
-## `$ cat tech_stack.json`
+### ⚡ Tech Arsenal
 
 <div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github,githubactions,linux,bash,vscode,figma,tailwind,html,css&perline=11" />
 </div>
 
 ---
 
-## `$ git log --stats`
+### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthaksaxenaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=C9D1D9&ring_color=7C3AED" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksaxenaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=6B7280" width="49%" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthaksaxenaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sarthaksaxenaa&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED" />
+<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksaxenaa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true&layout=compact" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksaxenaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" width="40%" />
 </div>
 
 ---
 
-## `$ cat activity.svg`
+### 🚀 Featured Project
 
 <div align="center">
+  <a href="https://github.com/sarthaksaxenaa/RideShare-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthaksaxenaa&repo=RideShare-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=C9D1D9" />
+  </a>
+</div>
 
-[![Sarthak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthaksaxenaa&bg_color=0D1117&color=7C3AED&line=7C3AED&point=F59E0B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center">
+  <sub>⚡ Event-driven full-stack monorepo · Real-time rider-driver matching · Live telemetry via Socket.io · Stripe payment pipeline</sub>
 </div>
 
 ---
 
-## `$ echo $CURRENT_FOCUS`
+### 📈 Activity
 
-```javascript
-const sarthak = {
-  learning    : ["Advanced DSA", "System Design", "Clean Architecture"],
-  building    : ["Full-Stack Web Apps", "REST APIs"],
-  exploring   : ["AI/ML Integration in Web Apps"],
-  goals_2025  : ["Land a strong internship", "Ship 2–3 solid projects", "Crack 200+ LeetCode problems"],
-};
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthaksaxenaa&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=10B981&area_color=7C3AED" width="100%" />
+</div>
+
+---
+
+### 🐍 The Grind
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sarthaksaxenaa&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:10B981&height=120&section=footer" width="100%" />
 
 </div>
