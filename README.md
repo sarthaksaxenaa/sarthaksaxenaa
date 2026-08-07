@@ -45,14 +45,6 @@ const sarthak = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthaksaxenaa&theme=algolia&column=-1&margin-w=10&margin-h=10" width="100%" />
-</div>
-
----
-
 ### ⚡ Tech Arsenal
 
 <div align="center">
