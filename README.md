@@ -105,7 +105,11 @@ const sarthak = {
 
 <h4>⭐ CodeChef</h4>
 <a href="https://www.codechef.com/users/sarthxen">
-  <img src="https://cp-logo.vercel.app/codechef/sarthxen?logo=true" />
+  <img src="https://img.shields.io/badge/CodeChef-sarthxen-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://www.codechef.com/users/sarthxen">
+  <img src="https://codechef-readme-stats.onrender.com/sarthxen?v=1" width="100%" />
 </a>
 
 </td>
