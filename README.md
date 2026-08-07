@@ -7,17 +7,19 @@
 
 <a href="https://www.linkedin.com/in/sarthaksaxenaa/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="mailto:sarthaksaxenaa05@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://leetcode.com/u/Sarthxen/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>&nbsp;
+<a href="https://www.geeksforgeeks.org/user/sarthaksarhu7/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.codechef.com/users/sarthxen" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/sarthaksaxenaa?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open_to_Work-%2310B981?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
@@ -36,9 +38,18 @@ const sarthak = {
     currentlyBuilding: "RideShare Platform — real-time ride-hailing with Stripe & Socket.io",
     learning: ["System Design", "DSA", "DevOps"],
     askMeAbout: ["web dev", "full-stack", "real-time systems", "event-driven architecture"],
+    dailyRoutine: ["☕ Coffee", "💻 Code", "🧠 DSA", "🔁 Repeat"],
     funFact: "I debug with console.log and I'm not ashamed 😄"
 };
 ```
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthaksaxenaa&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=10" width="100%" />
+</div>
 
 ---
 
@@ -47,7 +58,7 @@ const sarthak = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,nodejs,express,mongodb,postgres,redis&perline=11" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=prisma,docker,git,github,githubactions,linux,bash,vscode,figma,tailwind,html,css&perline=11" />
+  <img src="https://skillicons.dev/icons?i=prisma,docker,git,github,githubactions,linux,bash,vscode,figma,tailwind,html,css&perline=12" />
 </div>
 
 ---
@@ -65,6 +76,42 @@ const sarthak = {
   <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
   <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
   <img src="https://raw.githubusercontent.com/sarthaksaxenaa/sarthaksaxenaa/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" />
+</div>
+
+---
+
+### 🏅 Competitive Programming
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h4>🟡 LeetCode</h4>
+<a href="https://leetcode.com/u/Sarthxen/">
+  <img src="https://leetcard.jacoblin.cool/Sarthxen?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<h4>🟢 GeeksForGeeks</h4>
+<a href="https://www.geeksforgeeks.org/user/sarthaksarhu7/">
+  <img src="https://gfgstatscard.vercel.app/sarthaksarhu7?theme=dark" width="100%" />
+</a>
+
+<br/><br/>
+
+<h4>⭐ CodeChef</h4>
+<a href="https://www.codechef.com/users/sarthxen">
+  <img src="https://cp-logo.vercel.app/codechef/sarthxen?logo=true" />
+</a>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -166,7 +213,7 @@ const sarthak = {
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%237C3AED&aColor=%2310B981" alt="Dev Joke" />
 </div>
 
 <br/>
