@@ -48,7 +48,7 @@ const sarthak = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthaksaxenaa&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthaksaxenaa&theme=algolia&column=-1&margin-w=10&margin-h=10" width="100%" />
 </div>
 
 ---
@@ -106,10 +106,6 @@ const sarthak = {
 <h4>⭐ CodeChef</h4>
 <a href="https://www.codechef.com/users/sarthxen">
   <img src="https://img.shields.io/badge/CodeChef-sarthxen-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<br/><br/>
-<a href="https://www.codechef.com/users/sarthxen">
-  <img src="https://codechef-readme-stats.onrender.com/sarthxen?v=1" width="100%" />
 </a>
 
 </td>
